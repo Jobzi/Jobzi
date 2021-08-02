@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=190 align="right" style='border-radius: 50%;' src="https://media-exp3.licdn.com/dms/image/C4E03AQGPe5hzM15xQg/profile-displayphoto-shrink_200_200/0/1577938277052?e=1629936000&v=beta&t=WbZaJ5Mz8LtgFut7om3Hbo7HtSUyrAbU_StDQ-Sagn4" />
-
 ## Hi, I'm Jipson 👋🏽
 
 
