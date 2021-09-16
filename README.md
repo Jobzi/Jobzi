@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 👨🏻‍💻 Software Engineer. JavaScript Lover.
-
+- 🌱 I’m currently learning Golang
 
 
 ---
