@@ -24,28 +24,40 @@ Here are some ideas to get you started:
 
 ## About me...
 ```js
-const jipsonmurillo = {
-  pronouns: "he/him",
+export const jipsonmurillo = {
+  pronouns: 'he/him',
   code: [
     {
-      mobile:{
-        framework:["Flutter","React Native"],
-        languages:["Dart","Java","Javascript"]
+      mobile: {
+        framework: ['Flutter', 'React Native'],
+        languages: ['Dart', 'Java', 'JS', 'TS']
       },
-      frondEnd:{
-        framework:["Flutter","React","Angular"],
-        languages:['Dart','Java','Javascript',"Typescript"]
+      frondEnd: {
+        framework: ['Flutter', 'React', 'Angular'],
+        languages: ['Dart', 'JS', 'TS']
       },
-      backEnd:{
-        framework:["Express","SpringBoot"],
-        languages:["Java","Javascript","Typescript"]
-      },
+      backEnd: {
+        framework: ['Express', 'Fastify', 'SpringBoot'],
+        languages: ['JS', 'TS', 'Golang', 'Python', 'Java']
+      }
     }
   ],
-  tools: ["React", "Node.js", "GraphQL", "Firebase", "Vercel"],
+  database: ['MySql', 'PostgreSQL', 'MongoDB', 'Firebase'],
+  tools: [
+    'VS Code ♥',
+    'Node.js',
+    'GraphQL',
+    'Vercel',
+    'RunJs',
+    'Docker',
+    'Jest',
+    'Cypress'
+  ],
   links: {
-    portafolio: "https://portafoli.vercel.app/#/",
-    instagram: "https://instagram.com/jipson_n"
-  },
-};
+    portafolio: 'https://portafoli.vercel.app/#/',
+    instagram: 'https://instagram.com/jipson_n',
+    linkedin: 'https://www.linkedin.com/in/jipson-murillo-867b24122/'
+  }
+}
+
 ```
