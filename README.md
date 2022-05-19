@@ -28,18 +28,18 @@ export const jipsonmurillo = {
   pronouns: 'he/him',
   code: [
     {
-      mobile: {
-        framework: ['Flutter', 'React Native'],
-        languages: ['Dart', 'Java', 'JS', 'TS']
+      backEnd: {
+        framework: ['Express', 'Fastify', 'SpringBoot'],
+        languages: ['JS', 'TS', 'Golang', 'Python', 'Java']
       },
       frondEnd: {
         framework: ['Flutter', 'React', 'Angular'],
         languages: ['Dart', 'JS', 'TS']
       },
-      backEnd: {
-        framework: ['Express', 'Fastify', 'SpringBoot'],
-        languages: ['JS', 'TS', 'Golang', 'Python', 'Java']
-      }
+      mobile: {
+        framework: ['Flutter'],
+        languages: ['Dart', 'Java', 'JS', 'TS']
+      },
     }
   ],
   database: ['MySql', 'PostgreSQL', 'MongoDB', 'Firebase'],
@@ -55,7 +55,6 @@ export const jipsonmurillo = {
   ],
   links: {
     portafolio: 'https://portafoli.vercel.app/#/',
-    instagram: 'https://instagram.com/jipson_n',
     linkedin: 'https://www.linkedin.com/in/jipson-murillo-867b24122/'
   }
 }
